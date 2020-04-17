@@ -224,16 +224,6 @@ class TestList(unittest.TestCase):
         self.assertEqual(self.n3.next, self.n6)
 
 
-
-
-        
-
-    
-
-    
-
-
-
 if __name__ == '__main__':
     unittest.main()
 
